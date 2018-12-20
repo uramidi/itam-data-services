@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>sam-external-content</name>
+        <order/>
+        <roles>x_snc_sam_external.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>ushasri.ramidi@snc</sys_created_by>
+        <sys_created_on>2018-12-20 07:21:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c277a7a0dbaa6340daa3c6fc3496191c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sam-external-content</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sam-external-content" source="x_snc_sam_external">7d77e760dbaa6340daa3c6fc3496197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sam-external-content">7d77e760dbaa6340daa3c6fc3496197e</sys_scope>
+        <sys_update_name>sys_app_application_c277a7a0dbaa6340daa3c6fc3496191c</sys_update_name>
+        <sys_updated_by>ushasri.ramidi@snc</sys_updated_by>
+        <sys_updated_on>2018-12-20 07:21:24</sys_updated_on>
+        <title>sam-external-content</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
