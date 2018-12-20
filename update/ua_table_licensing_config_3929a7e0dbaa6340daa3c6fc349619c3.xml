@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_sam_external_g2crowd_products</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>ushasri.ramidi@snc</sys_created_by>
+        <sys_created_on>2018-12-20 07:28:45</sys_created_on>
+        <sys_id>3929a7e0dbaa6340daa3c6fc349619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sam_external_g2crowd_products</sys_name>
+        <sys_package display_value="sam-external-content" source="x_snc_sam_external">7d77e760dbaa6340daa3c6fc3496197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sam-external-content">7d77e760dbaa6340daa3c6fc3496197e</sys_scope>
+        <sys_update_name>ua_table_licensing_config_3929a7e0dbaa6340daa3c6fc349619c3</sys_update_name>
+        <sys_updated_by>ushasri.ramidi@snc</sys_updated_by>
+        <sys_updated_on>2018-12-20 07:28:45</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
