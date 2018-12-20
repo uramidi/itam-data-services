@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="G2Crowd Products" max_length="40" name="x_snc_sam_external_g2crowd_products" type="collection">
-        <element label="External Id" max_length="54" name="external_id" type="string"/>
-        <element label="Name" max_length="100" name="name" type="string"/>
-    </element>
-</database>
